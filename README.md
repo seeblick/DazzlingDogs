@@ -7,13 +7,4 @@ This is the father, Nero. Half Ridgeback, half Shepherd. So the pups are 75% She
 This is an older sibling eating pawpaw
 ![Linus]()
 
-  
-     <form action="//formspree.io/trashmailattrashmail@gmail.com"
-       method="POST">
--    <input type="text" name="name">
--    <input type="email" name="_replyto">
-+    <p>Name: </p><input type="text" name="name"><br />
-+    <p>Email: </p><input type="email" name="_replyto"><br />
-     <input type="submit" value="Send">
-     
- </form>
+
