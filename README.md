@@ -4,5 +4,5 @@
 ![Bella with nine](./BellaWithNinePuppies.JPG)
 This is the father, Nero. Half Ridgeback, half Shepherd. So the pups are 75% Shepherd.
 ![Nero](./Nero.JPG)
-and here an older sibling eating pawpaw
+This is an older sibling eating pawpaw
 ![Linus]()
