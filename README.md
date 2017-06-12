@@ -20,7 +20,7 @@ Short hair, with a ridge
 
 Fluffy, no ridge. Or short hair, with no ridge. 
 
-They have already opened their eyes: 
+They have already opened their eyes (June 10): 
 
 ![eyes open](./eyes_open.PNG)
 
