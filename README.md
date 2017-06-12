@@ -7,15 +7,15 @@
 ![Nero](./Nero.JPG)
 
 The pups will look something in between, like these from a previous litter:
-Fluffy, with a ridge
+fluffy, with a ridge,
 
 ![pups1.Runde](./mix1.JPG)
 
-Short hair, with a ridge
+short hair, with a ridge,
 
 ![pups1.Runde](./mix2.JPG)
 
-Fluffy, no ridge. Or short hair, with no ridge. 
+fluffy, no ridge. Or short hair, with no ridge. 
 
 ![pups1.Runde](./mix3.JPG)
 
