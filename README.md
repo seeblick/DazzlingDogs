@@ -5,7 +5,15 @@
 ![Nero](./Nero.JPG)
 Th pups will look something in between
 ![pups1.Runde](./mix1.JPG)
+
+Fluffy, with a ridge
+
 ![pups1.Runde](./mix2.JPG)
+
+Short hair, with a ridge
+
 ![pups1.Runde](./mix3.JPG)
+
+Fluffy, no ridge
 
 [Click here to get to the contact form](./contactform.html)
