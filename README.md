@@ -19,6 +19,7 @@ Short hair, with a ridge
 Fluffy, no ridge. Or short hair, with no ridge. 
 
 They have already opened their eyes: 
+
 ![eyes open](./eyes_open.PNG)
 
 If you are interested to get one of the puppies, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! 
