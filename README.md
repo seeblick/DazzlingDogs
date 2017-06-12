@@ -1,10 +1,12 @@
 # Welcome to Anthony's Puppy Site  
 ## We have 9 puppies since May 29. Interested? Then [click here](contactform.html) and submit your email address, or go to he contact form at the bottom of the page!
+
+## This is the mother, a pure shepherd.
 ![Bella with nine](./BellaWithNinePuppies.JPG)
-## This is the father, Nero. Half Ridgeback, half Shepherd.
+## This is the father. Half Ridgeback, half Shepherd.
 ![Nero](./Nero.JPG)
 
-Th pups will look something in between:
+The pups will look something in between, like these from a previous litter:
 
 ![pups1.Runde](./mix1.JPG)
 
