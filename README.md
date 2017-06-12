@@ -27,4 +27,4 @@ If you are interested to get one of the puppies, [click here to get to the conta
 
 Anthony
 
-P.S. [Here is something to read](https://archive.org/download/DontShootTheDog/Dont-shoot-the-dog.pdf)
+P.S. [Here is something to read about dogs, life, and everything](https://archive.org/download/DontShootTheDog/Dont-shoot-the-dog.pdf)
