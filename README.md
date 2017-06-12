@@ -3,7 +3,9 @@
 ![Bella with nine](./BellaWithNinePuppies.JPG)
 ## This is the father, Nero. Half Ridgeback, half Shepherd.
 ![Nero](./Nero.JPG)
-Th pups will look something in between
+
+Th pups will look something in between:
+
 ![pups1.Runde](./mix1.JPG)
 
 Fluffy, with a ridge
