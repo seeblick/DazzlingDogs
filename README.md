@@ -21,6 +21,9 @@ Fluffy, no ridge
 As of now, they have not yet opened their eyes
 
 
-If you ar interested to get one, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! 
+If you are interested to get one of the puppies, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! 
 
 Anthony
+
+P.S. Here is something to read:
+https://archive.org/details/DontShootTheDog
