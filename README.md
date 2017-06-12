@@ -25,4 +25,4 @@ If you are interested to get one of the puppies, [click here to get to the conta
 
 Anthony
 
-P.S. [Here is something to read](https://archive.org/details/DontShootTheDog)
+P.S. Here is something to read [link](https://archive.org/details/DontShootTheDog)
