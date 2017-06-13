@@ -30,3 +30,5 @@ If you are interested to get one of the puppies, [click here to get to the conta
 Anthony
 
 P.S. [Here is something to read about dogs, life, and everything](https://archive.org/download/DontShootTheDog/Dont-shoot-the-dog.pdf)
+[Ian Dunbar - Before you get your puppy.pdf](http://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf)
+[Ian Dunbar - After you get your puppy.pdf](http://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
