@@ -35,4 +35,4 @@ Two books by Ian Dunbar: [Before you get your puppy](http://www.dogstardaily.com
 
 One by Patricia B McConnell: [The Other End of the Leash](https://www.scribd.com/doc/76581766/The-Other-End-of-the-Leash#page=26) (start reading at p 26!) (works best on laptop/PC)
 
-[videolink](https://github.com/zorbathegreek/DazzlingDogs/blob/master/pups_walking.3gp)
+[videolink](https://github.com/zorbathegreek/DazzlingDogs/blob/master/pups_walking.mp4)
