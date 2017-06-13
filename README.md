@@ -34,3 +34,5 @@ P.S. [Here is something to read about dogs, life, and everything](https://archiv
 Two books by Ian Dunbar: [Before you get your puppy](http://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf) & [After you get your puppy](http://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
 
 One by Patricia B McConnell: [The Other End of the Leash](https://www.scribd.com/doc/76581766/The-Other-End-of-the-Leash#page=26) (start reading at p 26!) (works best on laptop/PC)
+
+[videolink](./pups_walking.3gp)
