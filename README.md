@@ -23,7 +23,7 @@ They have already opened their eyes (June 10):
 
 ![eyes open](./eyes_open.PNG)
 
-Here is a video link (June 16, 2017) https://vimeo.com/221859881
+Here is a video link (June 16, 2017) [video link](https://vimeo.com/221859881)
 
 
 If you are interested to get one of the puppies, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! 
