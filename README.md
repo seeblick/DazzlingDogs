@@ -12,7 +12,7 @@
 
 (June 24) Running around, siblings cleaning them:
 
-![Intact social interaction]()
+![Intact social interaction](https://vimeo.com/222985083)
 
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
