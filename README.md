@@ -10,9 +10,7 @@
 
 ![eyes open](./eyes_open.PNG)
 
-(June 24) Running around, siblings cleaning them:
-
-[Interaction with older siblings](https://vimeo.com/222985083)
+(June 24) [Running around, siblings cleaning them](https://vimeo.com/222985083)
 
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
