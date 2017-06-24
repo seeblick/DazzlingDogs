@@ -6,6 +6,14 @@
 ## This is the father. Half Ridgeback, half Shepherd.
 ![Nero](./Nero.JPG)
 
+(June 10) They have already opened their eyes: 
+
+![eyes open](./eyes_open.PNG)
+
+(June 24) Running around, siblings cleaning them:
+
+![Intact social interaction](./IntactSocialInteraction-SiblingsCleaning.mp4)
+
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
 
@@ -18,10 +26,6 @@ short hair, with a ridge,
 fluffy, no ridge. Or short hair, with no ridge. 
 
 ![pups1.Runde](./mix3.JPG)
-
-They have already opened their eyes (June 10): 
-
-![eyes open](./eyes_open.PNG)
 
 Here is a [video link](https://vimeo.com/221859881) (June 16, 2017)
 
