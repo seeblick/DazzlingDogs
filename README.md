@@ -1,5 +1,5 @@
 # Welcome to Anthony's Puppy Site  
-## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to he contact form at the bottom of the page!  
+## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
 ## This is the mother, a pure shepherd.
 ![Bella with nine](./BellaWithNinePuppies.JPG)
