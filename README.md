@@ -10,7 +10,7 @@
 
 ![eyes open](./eyes_open.PNG)
 
-(Aug 3) Two months old: [playing with each other]./videos/MAQ05161.MP4
+(Aug 3) Two months old: [playing with each other](https://github.com/zorbathegreek/DazzlingDogs/tree/master/videos/MAQ05161.MP4)
 
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
