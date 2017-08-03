@@ -1,4 +1,4 @@
-50 shades of darker# Welcome to Anthony's Puppy Site  
+Welcome to Anthony's Puppy Site  
 ## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
 ## This is the mother, a pure shepherd.
@@ -10,7 +10,7 @@
 
 ![eyes open](./eyes_open.PNG)
 
-(Aug 3) Two months old: [playing with each other](https://github.com/zorbathegreek/DazzlingDogs/videos/MAQ05161.MP4)
+(Aug 3) Two months old: [playing with each other](https://github.com/zorbathegreek/DazzlingDogs/blob/master/videos/MAQ05160.MP4)
 
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
