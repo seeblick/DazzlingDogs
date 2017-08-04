@@ -1,7 +1,7 @@
-## **Welcome to Anthony's Puppy Site**
+# **Welcome to Anthony's Puppy Site**
 ## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
-## This is the mother, a pure shepherd.
+## **This is the mother, a pure shepherd.**
 ![Bella with nine](./BellaWithNinePuppies.JPG)
 ## This is the father. Half Ridgeback, half Shepherd.
 ![Nero](./Nero.JPG)
@@ -23,7 +23,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 
 ![pups1.Runde](./mix3.JPG)
 
-# Videolinks: 
+# *Videolinks:* 
 
 June 16, 2017 [Crawling around their mother](https://vimeo.com/221859881)
 
@@ -31,11 +31,11 @@ June 24: [Running around, siblings cleaning them](https://vimeo.com/222985083)
 
 August 3: [Pups playing](https://vimeo.com/228336462)
 
-If you are interested to get one of the puppies, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
+**If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
 Anthony
 
-P.S. [Here is something to read about dogs, life, and everything: "Don't shoot the dog"](https://archive.org/download/DontShootTheDog/Dont-shoot-the-dog.pdf)
+P.S. [Here is something to read about dogs, life, and everything: "Don't shoot the dog" by Karen Pryor](https://archive.org/download/DontShootTheDog/Dont-shoot-the-dog.pdf)
 
 Two books by Ian Dunbar: [Before you get your puppy](http://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf) & [After you get your puppy](http://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
 
