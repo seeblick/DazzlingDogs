@@ -23,11 +23,12 @@ fluffy, no ridge. Or short hair, with no ridge.
 
 ![pups1.Runde](./mix3.JPG)
 
-Here is a [video link](https://vimeo.com/221859881) (June 16, 2017)
+Videos: 
+June 16, 2017 [video link](https://vimeo.com/221859881)
 
-(June 24) Another Video: [Running around, siblings cleaning them](https://vimeo.com/222985083)
+June 24: [Running around, siblings cleaning them](https://vimeo.com/222985083)
 
-(Aug 3) [Pups playing](https://vimeo.com/228336462)
+August 3: [Pups playing](https://vimeo.com/228336462)
 
 If you are interested to get one of the puppies, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
