@@ -23,7 +23,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 
 ![pups1.Runde](./mix3.JPG)
 
-Videolinks: 
+#Videolinks: 
 
 June 16, 2017 [Crawling around their mother](https://vimeo.com/221859881)
 
