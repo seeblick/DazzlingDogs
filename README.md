@@ -29,7 +29,7 @@ June 16, 2017 [Crawling around their mother](https://vimeo.com/221859881)
 
 June 24: [Running around, siblings cleaning them](https://vimeo.com/222985083)
 
-August 3: [Pups playing](https://zorbathegreek.githb.io/DazzlingDogs/videos/MAQ05160.flv)
+August 3: [Pups playing](https://zorbathegreek.githb.io/DazzlingDogs/master/videos/MAQ05160.flv)
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
