@@ -27,7 +27,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 
 June 16, 2017 [Crawling around their mother](https://vimeo.com/221859881)
 
-June 24: [Running around, siblings cleaning them](https://vimeo.com/222985083)
+June 24: [Running around, siblings cleaning them](https://zorbathegreek.github.io/videos/video_2017-06-24_06-23-28.flv)
 
 August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
 
