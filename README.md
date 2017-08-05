@@ -2,13 +2,13 @@
 ## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
 ## **This is the mother, a pure shepherd.**
-![Bella with nine](./BellaWithNinePuppies_new.JPG)
+![Bella with nine](./img/BellaWithNinePuppies_new.JPG)
 ## This is the father. Half Ridgeback, half Shepherd.
-![Nero](./Nero.JPG)
+![Nero](./img/Nero_new.JPG)
 
 (June 10) They have already opened their eyes: 
 
-![eyes open](./eyes_open.PNG)
+![eyes open](./img/eyes_open.PNG)
 
 The pups will look something in between, like these from a previous litter:
 fluffy, with a ridge,
