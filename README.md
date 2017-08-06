@@ -24,6 +24,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 ![pups1.Runde](./mix3.JPG)
 
 # *Videolinks:* 
+(plays well with VLC) (https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
 
 June 16, 2017 [Bella and pups, 7 days old](https://zorbathegreek.github.io/DazzlingDogs/videos/bella_and_pups_7_days_old.flv)
 
