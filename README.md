@@ -26,11 +26,11 @@ fluffy, no ridge. Or short hair, with no ridge.
 # *Videolinks:* 
 If your mobile will not play the videos, [try videolan player from your AppStore/PlayStore](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
 
-June 16, 2017 [Bella and pups, 7 days old](https://zorbathegreek.github.io/DazzlingDogs/videos/bella_and_pups_7_days_old.flv)
+* June 16, 2017 [Bella and pups, 7 days old](https://zorbathegreek.github.io/DazzlingDogs/videos/bella_and_pups_7_days_old.flv)
 
-June 24: [Pups running around, siblings cleaning them](https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.flv)
+* June 24: [Pups running around, siblings cleaning them](https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.flv)
 
-August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
+* August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
