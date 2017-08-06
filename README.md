@@ -25,7 +25,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 
 # *Videolinks:* 
 
-June 16, 2017 [Crawling around their mother](https://vimeo.com/221859881)
+June 16, 2017 [Bella and pups, 7 days old](https://zorbathegreek.github.io/DazzlingDogs/videos/bella_and_pups_7_days_old.flv)
 
 June 24: [Pups running around, siblings cleaning them](https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.flv)
 
