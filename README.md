@@ -17,9 +17,9 @@ fluffy, with a ridge,
 
 short hair, with a ridge,
 
-![pups1.Runde](./mix2.JPG)
+![pups1
 
-fluffy, no ridge. Or short hair, with no ridge. 
+.Runde](./ridge.ir, with no ridge. 
 
 ![pups1.Runde](./mix3.JPG)
 
@@ -27,11 +27,10 @@ fluffy, no ridge. Or short hair, with no ridge.
 * June 16, 2017: Bella and pups, 7 days old
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Bella_and_Pups_320.mp4" width="420" height="300" controls preload></video>
 
-* June 24: [Pups running around, siblings cleaning them](https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.flv)
+* June 24: Pups running around, siblings cleaning them
+<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.mp4" width="320" height="400" controls preload></video>
 
-* August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
-
-* [Pups playing] 
+* August 3: Pups playing 
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="400" controls preload></video>
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
