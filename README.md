@@ -32,6 +32,8 @@ If your mobile will not play the videos, [try videolan player from your AppStore
 
 * August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
 
+* [Pups playing] <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv" width="320" height="200" controls preload></video>
+
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
 Anthony
