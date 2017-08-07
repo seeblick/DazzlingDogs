@@ -24,9 +24,7 @@ fluffy, no ridge. Or short hair, with no ridge.
 ![pups1.Runde](./mix3.JPG)
 
 # *Videolinks:* 
-If your mobile will not play the videos, [try videolan player from your AppStore/PlayStore](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
-
-* June 16, 2017 [Bella and pups, 7 days old](https://zorbathegreek.github.io/DazzlingDogs/videos/bella_and_pups_7_days_old.flv)
+* June 16, 2017: Bella and pups, 7 days old
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Bella_and_Pups_320.mp4" width="420" height="300" controls preload></video>
 
 * June 24: [Pups running around, siblings cleaning them](https://zorbathegreek.github.io/DazzlingDogs/videos/pups_running_around_sibling_cleaning_them.flv)
@@ -34,7 +32,7 @@ If your mobile will not play the videos, [try videolan player from your AppStore
 * August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
 
 * [Pups playing] 
-<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="200" controls preload></video>
+<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="400" controls preload></video>
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
