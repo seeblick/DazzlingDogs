@@ -1,4 +1,4 @@
-IntactSocialInteraction-SiblingsCleaning.mp4# **Welcome to Anthony's Puppy Site**
+# **Welcome to Anthony's Puppy Site**
 ## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
 ## **This is the mother, a pure shepherd.**
@@ -32,7 +32,7 @@ If your mobile will not play the videos, [try videolan player from your AppStore
 
 * August 3: [Pups playing](https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.flv)
 
-* [Pups playing] <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="200" controls preload></video>
+* [Pups playing] <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="640" height="400" controls preload></video>
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
