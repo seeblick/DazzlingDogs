@@ -15,11 +15,11 @@ fluffy, with a ridge,
 
 ![pups1.Runde](./mix1.JPG)
 
-short hair, with a ridge,
+or short hair, with a ridge,
 
-![pups1
+![pups1.Runde](./mix2.JPG)
 
-.Runde](./ridge.ir, with no ridge. 
+or short hair, with no ridge. Or fluffy with no ridge
 
 ![pups1.Runde](./mix3.JPG)
 
