@@ -27,11 +27,13 @@ or short hair, with no ridge. Or fluffy with no ridge
 June 16, 2017: Bella and pups, 7 days old
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Bella_and_Pups_320.mp4" width="420" height="300" controls preload></video>
 
+
 June 24: Pups running around, siblings cleaning them
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="400" controls preload></video>
 
+
 August 3: Pups playing
-<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.mp4" width="320" height="300" controls preload></video>
+<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.mp4" width="320" height="280" controls preload></video>
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
