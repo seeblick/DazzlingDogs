@@ -27,8 +27,10 @@ or short hair, with no ridge. Or fluffy with no ridge
 * June 16, 2017: Bella and pups, 7 days old
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Bella_and_Pups_320.mp4" width="420" height="300" controls preload></video>
 
+
 * June 24: Pups running around, siblings cleaning them
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/IntactSocialInteraction-SiblingsCleaning.mp4" width="320" height="400" controls preload></video>
+
 
 * August 3: Pups playing
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/Pups_playing.mp4" width="320" height="400" controls preload></video>
