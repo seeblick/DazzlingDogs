@@ -39,7 +39,7 @@ August 13: Pups waking up on verandah
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/some_pups_wake_up_on_verandah.mp4" width="320" height="240" controls preload></video>
 
 August 13: Feeding pups in the garden
-<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/feeding_pups_255x191.ogv" width="320" height="240" controls preload></video>  
+<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/feeding_pups_255x191.webm" width="320" height="240" controls preload></video>  
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
