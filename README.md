@@ -1,4 +1,4 @@
-# **Welcome to Anthony's Puppy Site**
+394x295# **Welcome to Anthony's Puppy Site**
 ## We have 9 puppies since May 29. They are located at Rusizi, Rwanda. Interested? Then [click here](contactform.html) and submit your email address, or go to the contact form at the bottom of the page!  
 
 ## **This is the mother, a pure shepherd.**
@@ -39,7 +39,7 @@ August 13: Pups waking up on verandah
 <video src="https://zorbathegreek.github.io/DazzlingDogs/videos/some_pups_wake_up_on_verandah.mp4" width="320" height="240" controls preload></video>
 
 August 13: Feeding pups in the garden
-<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/feeding_pups_255x191.webm" width="320" height="240" controls preload></video>  
+<video src="https://zorbathegreek.github.io/DazzlingDogs/videos/feeding_pups_394x295.webm" width="320" height="240" controls preload></video>  
 
 **If you are interested to get one of the puppies**, [click here to get to the contact form](./contactform.html) and submit your email address. I'll get back to you as soon as possible! Or if you know someone who may be interested, please give them the link to this website! That's https://zorbathegreek.github.io/DazzlingDogs/ 
 
