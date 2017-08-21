@@ -19,7 +19,7 @@ or short hair, with a ridge,
 
 ![pups1.Runde](./mix2.JPG)
 
-or short hair, with no ridge. Or fluffy with no ridge
+or short hair, with no ridge. Or fluffy with no ridge.
 
 ![pups1.Runde](./mix3.JPG)
 
